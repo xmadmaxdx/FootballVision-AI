@@ -73,7 +73,7 @@ Additionally, the project incorporates several other technologies and algorithms
 
 5. View the results in the `output_videos` folder where videos and analysis data will be saved.
 
-- ### Demo Video
+## Demo Video
 
 Watch the demo of the AI-powered football analysis system in action:
 
