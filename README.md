@@ -12,11 +12,7 @@ Additionally, the project incorporates several other technologies and algorithms
 - **Depth Representation:** Apply perspective transformation to represent the field’s depth and convert measurements from pixels to real-world units (meters).
 - **Player Performance Metrics:** Calculate speed and distance covered by players using tracking data and movement analysis.
 
-- ### Demo Video
-
-Watch the demo of the AI-powered football analysis system in action:
-
-[Click here to watch the output video](https://github.com/xmadmaxdx/FootballVision-AI/blob/main/output_videos/output_video.avi)
+![image](https://github.com/user-attachments/assets/30c7dc60-8e41-4e8c-8234-5ed2617396a7)
 
 
 This project is designed for both beginners and experienced machine learning engineers, offering a hands-on approach to implementing object detection, clustering, tracking, and real-time analysis in football videos.
@@ -76,6 +72,13 @@ This project is designed for both beginners and experienced machine learning eng
    ```
 
 5. View the results in the `output_videos` folder where videos and analysis data will be saved.
+
+- ### Demo Video
+
+Watch the demo of the AI-powered football analysis system in action:
+
+[Click here to watch the output video](https://drive.google.com/file/d/1DkIH1RPDXSx1m2Fut-qKE71-Rcp9lJ7s/view?usp=sharing)
+
 
 ## License
 
