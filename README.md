@@ -17,8 +17,6 @@ Additionally, the project incorporates several other technologies and algorithms
 ![image](https://github.com/user-attachments/assets/30c7dc60-8e41-4e8c-8234-5ed2617396a7)
 
 
-This project is designed for both beginners and experienced machine learning engineers, offering a hands-on approach to implementing object detection, clustering, tracking, and real-time analysis in football videos.
-
 ## Modules and Technologies Used
 
 1. **YOLO for Real-time Detection:**
