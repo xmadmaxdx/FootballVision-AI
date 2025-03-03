@@ -40,14 +40,6 @@ Additionally, the project incorporates several other technologies and algorithms
    - Combines player positions, camera movement, and perspective transformation.
 
 
-## Key Features
-
-- **Real-time Object Detection and Tracking:** Detects players, referees, and footballs, then tracks them frame by frame.
-- **Ball Possession Tracking:** Measures the time each team has possession of the ball.
-- **Camera Movement Adjustment:** Compensates for camera movement using optical flow for more accurate analysis.
-- **Perspective Adjustment:** Adjusts the representation of player movement in the video to real-world scale (meters instead of pixels).
-- **Speed and Distance Calculation:** Tracks player movements and calculates their speed and distance covered on the field.
-
 ## How to Run
 
 1. Clone the repository:
