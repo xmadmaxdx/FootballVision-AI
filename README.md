@@ -16,7 +16,7 @@ Additionally, the project incorporates several other technologies and algorithms
 
 Watch the demo of the AI-powered football analysis system in action:
 
-[Click here to watch the output video](https://github.com/yourusername/FootballVision-AI/blob/main/output_videos/output_video.avi)
+[Click here to watch the output video](https://github.com/xmadmaxdx/FootballVision-AI/blob/main/output_videos/output_video.avi)
 
 
 This project is designed for both beginners and experienced machine learning engineers, offering a hands-on approach to implementing object detection, clustering, tracking, and real-time analysis in football videos.
